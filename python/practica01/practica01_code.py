@@ -1,7 +1,7 @@
 
 
 # ============================================================
-# PRACTICA 01 - ANALISIS EXPLORATORIO DE DATOS (EDA)
+# PRACTICA 01 - ANALISIS EXPLORATORIO DE DATOS
 # Conjuntos: Wine Quality y Palmer Penguins
 # Herramienta: Python / Spyder
 # ============================================================

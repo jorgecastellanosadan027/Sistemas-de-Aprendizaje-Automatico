@@ -300,7 +300,7 @@ cat(paste(rep("=", 70), collapse = ""), "\n")
 # ============================================================
 
 # CONFIGURACION POSTGRESQL
-USER <- "curso_ia"
+USER <- "postgres"
 PASSWORD <- "CursoIA_2026"
 HOST <- "localhost"
 PORT <- 5432

@@ -22,8 +22,8 @@ PENGUINS_FILE = ROOT / "raw/penguins/penguins.csv"
 FIGURES = ROOT / "figures/python"
 REPORTS = ROOT / "docs"
 
-USER = "root"
-PASSWORD = "root"
+USER = "curso_ia"
+PASSWORD = "CursoIA_2026"
 HOST = "localhost"
 PORT = 3306
 DATABASE = "practica01"
